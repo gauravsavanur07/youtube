@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>expand.png</file>
+    <file>collapse.png</file>
+    <file>youtube.png</file>
+    <file>about.png</file>
+    <file>preferences.png</file>
+    <file>quit.png</file>
+    <file>complete.png</file>
+    <file>error.png</file>
+    <file>downloading.png</file>
+  </qresource>
+</RCC>
